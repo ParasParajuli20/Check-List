@@ -8,8 +8,20 @@ Welcome to my security checklist repository. This is a personal collection of ch
 
 This repository includes checklists related to:
 - ✅ Web Application Pentesting
-- ✅ Mobile Application Pentesting *(upcoming)*
+- ✅ Mobile Application Pentesting 
 - ✅ API Security Testing *(upcoming)*
 - ✅ IOT Pentesting *(Upcoming)*
 - ✅ BlockChain Pentesting *(Upcoming)*
 - ✅ Notes from Labs & Courses *(Burp, HTB, PortSwigger, etc.)*
+
+ ## 🚀 Usage
+
+Use this checklist during manual testing or as part of a secure mobile app development lifecycle. You can:
+
+- Use it during code reviews and threat modeling  
+- Integrate it into your VAPT reporting process  
+- Share with development teams to improve secure coding practices  
+
+## ✅ Status
+
+This checklist is actively maintained. Contributions, suggestions, and pull requests are welcome!
