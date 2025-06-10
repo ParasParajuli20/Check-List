@@ -59,9 +59,6 @@ A structured approach to testing APIs for security vulnerabilities.
 - [ ] Verify **file uploads** (malicious files, directory traversal).
 - [ ] Test **cache poisoning** (e.g., manipulating `X-Forwarded-Host`).
 
----
-
-
 
 ---
 
