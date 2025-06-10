@@ -9,10 +9,10 @@ Welcome to my security checklist repository. This is a personal collection of ch
 This repository includes checklists related to:
 - ✅ Web Application Pentesting
 - ✅ Mobile Application Pentesting 
-- ✅ API Security Testing *(upcoming)*
-- ✅ IOT Pentesting *(Upcoming)*
-- ✅ BlockChain Pentesting *(Upcoming)*
-- ✅ Notes from Labs & Courses *(Burp, HTB, PortSwigger, etc.)*
+- ✅ API Security Testing 
+- ✅ IOT Pentesting 
+- ✅ BlockChain Pentesting 
+
 
  ## 🚀 Usage
 
